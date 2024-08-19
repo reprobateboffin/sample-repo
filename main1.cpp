@@ -7,8 +7,8 @@ int main(){
 int a;
 int b;
 
-int c = a + b;
-cout<<c;
+int c = a - b;
+cout<<c+a;
 
     return 0;
 }
